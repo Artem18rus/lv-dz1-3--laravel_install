@@ -1,0 +1,17 @@
+{
+    "name": "artem/lv-dz1-3--laravel_install",
+    "description": "dz1-3",
+    "autoload": {
+        "psr-4": {
+            "Artem\\LvDz13LaravelInstall\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem18rus",
+            "email": "urart88@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
